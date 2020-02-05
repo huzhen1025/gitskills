@@ -5,7 +5,6 @@ test diff --cached
 
 this is branch2
 branch2 add
-branch2 meger
 
 this is branch3
 branch3 add
